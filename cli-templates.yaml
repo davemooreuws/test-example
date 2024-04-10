@@ -1,0 +1,11 @@
+# This file contains the templates available to the user
+# when executing the "nitric new" command.
+templates:
+  - name: ts-starter
+    label: TypeScript - Starter
+    desc: A simple REST API
+    path: ./v1/typescript-starter
+  - name: js-starter
+    label: JavaScript - Starter
+    desc: A simple REST API
+    path: ./v1/javascript-starter
